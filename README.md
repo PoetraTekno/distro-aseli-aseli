@@ -2,10 +2,10 @@
   <img src="public/images/logo_distro_aseli_aseli.webp" width="160" alt="Logo Distro Aseli Aseli">
 </p>
 
-<h1 align="center">Distro Aseli Aseli — Website Katalog & Manajemen UMKM</h1>
+<h1 align="center">Distro Aseli Aseli Website Katalog & Manajemen UMKM</h1>
 
 <p align="center">
-  <em>"Gaya Lokal, Kualitas Maksimal — Aseli Buatan Anak Negeri."</em>
+  <em>"Gaya Lokal, Kualitas Maksimal Aseli Buatan Anak Negeri."</em>
 </p>
 
 ---
